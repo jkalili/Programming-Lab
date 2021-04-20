@@ -1,2 +1,2 @@
-# compsci
-My Computer Science Repository
+# Programming Lab
+A Computer Science Repository
